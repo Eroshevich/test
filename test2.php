@@ -1,6 +1,6 @@
 public function blaBlaBla(): int
 {
-    return 0;
+    return 1;
 }
 
 public function test(int $la)
